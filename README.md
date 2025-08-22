@@ -56,8 +56,7 @@ This project is released under the MIT License.
 Feel free to use, modify, and share with credit.
 
 👤 Author
-
-Your Name
+ Vivek Kumar
 
 GitHub: @302004vivekkumar
 
